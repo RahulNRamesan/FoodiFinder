@@ -1,0 +1,7 @@
+{
+  "name": "FoodiFind - App",
+  "description": "An AI-agent driven food discovery engine that aggregates influencer trends, analyzes sentiment, and visualizes data on a live map.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
